@@ -40,13 +40,13 @@
 
 .featured-link {
     color: black;
-    font-size: 0.8rem;
+    font-size: 1rem;
     display: flex;
     align-items: center;
 }
 
 .about-link-text {
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: black;
     margin: auto auto auto 0.4em;
 }
@@ -103,7 +103,7 @@ ul {
     .container-3 {
         margin: 1em auto;
         max-width: 80vw;
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .about-link-container {
