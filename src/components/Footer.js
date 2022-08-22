@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div id="foot-cont" className='footer-container'>
             <span className='footer-text'>Created By: </span>
-            <a className="footer-link" target="_blank" href="https://nickhughes17.github.io/">NH</a>
+            <a className="footer-link" rel='noreferrer' target="_blank" href="https://nickhughes17.github.io/">NH</a>
     </div>
   )
 }
