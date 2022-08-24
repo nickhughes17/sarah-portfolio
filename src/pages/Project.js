@@ -61,7 +61,7 @@ const Project = () => {
           showIndicators={false}
           showStatus={false}
           dynamicHeight={true}
-          selectedItem={1}
+          selectedItem={0}
         >
           {proj.images.map((image) => 
               <div key={image.url}>
